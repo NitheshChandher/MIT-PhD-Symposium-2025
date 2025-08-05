@@ -1,0 +1,9 @@
+body {
+    max-width: 90%;
+    margin: auto;
+  }
+  
+  .wrapper {
+    max-width: 90% !important;
+  }
+  

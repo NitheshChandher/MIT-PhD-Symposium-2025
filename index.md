@@ -3,6 +3,8 @@ title: MIT PhD Symposium 2025
 layout: default
 ---
 
+<link rel="stylesheet" href="assets/css/style.css">
+
 # MIT PhD Symposium 2025
 
 **📅 Date:** 20 August 2025  
