@@ -1,12 +1,3 @@
 title: MIT PhD Symposium 2025
-description: Official page for the 2025 MIT PhD Symposium at Wadströmska Villa.
-# _config.yml
 theme: jekyll-theme-minimal
-
-# Add this:
-sass:
-  style: compressed
-
-# Add this to use your custom CSS
-include:
-  - assets/css/style.css
+description: Official site for the MIT PhD Symposium at Wadströmska Villa.
