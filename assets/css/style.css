@@ -1,3 +1,7 @@
+header {
+    display: none !important;
+  }  
+
 /* Two-column layout */
 .two-column {
     display: flex;
