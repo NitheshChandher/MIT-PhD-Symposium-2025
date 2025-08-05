@@ -1,89 +1,57 @@
-body {
-    font-family: "Segoe UI", Roboto, sans-serif;
-    line-height: 1.6;
-    margin: 0 auto;
-    max-width: 1000px;
-    padding: 2rem;
-    background: #fefefe;
-    color: #222;
+/* Two-column layout */
+.two-column {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 2rem auto;
   }
   
-  h1 {
-    font-size: 2.2rem;
-    color: #003366;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 0.5rem;
+  .left-column {
+    flex: 1;
+    min-width: 250px;
+    max-width: 300px;
+    background: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
   }
   
-  h2 {
-    color: #00509e;
-    margin-top: 2rem;
+  .right-column {
+    flex: 3;
+    min-width: 300px;
+    padding: 1rem;
   }
   
-  h3 {
-    margin-top: 1.5rem;
-    color: #0077b6;
+  .left-column h1,
+  .left-column p {
+    margin: 0 0 0.5rem 0;
   }
   
   table {
     width: 100%;
     border-collapse: collapse;
     margin: 1rem 0;
-    font-size: 0.95rem;
-  }
-  
-  table, th, td {
-    border: 1px solid #ddd;
   }
   
   th, td {
     padding: 0.6rem 0.8rem;
+    border: 1px solid #ccc;
     text-align: left;
   }
   
   th {
-    background-color: #f2f2f2;
-    color: #333;
-  }
-  
-  a {
-    color: #0056b3;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  hr {
-    border: none;
-    border-top: 1px solid #ccc;
-    margin: 2rem 0;
+    background-color: #f0f0f0;
   }
   
   @media (max-width: 768px) {
-    body {
-      padding: 1rem;
+    .two-column {
+      flex-direction: column;
     }
   
-    table {
-      font-size: 0.9rem;
+    .left-column, .right-column {
+      max-width: 100%;
     }
-  }
-  /* Left-align GitHub Pages header content */
-  header, header h1, header p, header a {
-    text-align: left !important;
-    margin-left: 0 !important;
-  }
-  
-  /* Optional: Make header title smaller and remove excess spacing */
-  header h1 {
-    font-size: 1.8rem;
-    margin-bottom: 0.3rem;
-  }
-  
-  header p {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
   }
   
