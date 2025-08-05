@@ -8,7 +8,7 @@ layout: default
 <div class="two-column">
   <div class="left-column">
 {% capture left %}
-# MIT PhD Symposium 2025
+## MIT PhD Symposium 2025
 
 📅 **Date:** 20 August 2025  
 📍 **Venue:** Wadströmska Villa  
