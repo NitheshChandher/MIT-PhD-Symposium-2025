@@ -70,4 +70,20 @@ body {
       font-size: 0.9rem;
     }
   }
+  /* Left-align GitHub Pages header content */
+  header, header h1, header p, header a {
+    text-align: left !important;
+    margin-left: 0 !important;
+  }
+  
+  /* Optional: Make header title smaller and remove excess spacing */
+  header h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.3rem;
+  }
+  
+  header p {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
   
