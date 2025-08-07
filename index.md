@@ -53,10 +53,11 @@ layout: default
 
 ## 🎙 Keynote Speakers
 
-Jinyi is arranging keynote speakers, possibly from:
+**Åsa Rybo Landelius**
 
-- **Doctoral Ombuds** – systemic support for students  
-- **SULF / MIT Division** – guidance for academic life
+- **About the speaker:** Member of the Saco-S board at LiU and previously worked as an ‘ombudsman’. 
+
+- **Title of Presentation:** Working in Sweden 
 
 ---
 
@@ -64,16 +65,53 @@ Jinyi is arranging keynote speakers, possibly from:
 
 - **Talk:** 7 mins  
 - **Q&A:** 3 mins  
-- Audience: interdisciplinary  
-- Feedback: from 3 peers
+- Audience: Interdisciplinary  
+- Feedback: From 3 peers
 
 ---
 
+## 📅 Presentation Order
+
+| Presenter                | Unit       | Start     | End       | Session       |
+|--------------------------|------------|-----------|-----------|---------------|
+| Nithesh Chandher K       | CG         |           |           |               |           
+| Karl Johan Klang         | iViz       |           |           |               |
+| Hugo Ekinge              | CG         |           |           |               |
+| Emma Broman              | ImmViz     |           |           |               |
+| Yifan Ding               | CG         |           |           |               |
+| Peilin Yu                | iViz       |           |           |               |
+| José Bener               | VID        |           |           |               |   
+| Arturas Aleksandraus     | CG         |           |           |               |
+| Danhua Lei               | SciViz     |           |           |               |   
+| Zeyang Huang             | iViz       |           |           |               |
+| Shreyas Shivakumara      | ImmViz     |           |           |               |
+| Jinyi Wang               | iViz       |           |           |               |
+
+---
 ## 📝 Feedback Format
 
 - Each student reviews 3 others  
 - Forms provided  
 - Structured, supportive feedback
+
+---
+
+## 📋 Feedback Order
+
+| Reviewer            | Presenter 1          | Presenter 2          | Presenter 3          |            
+|---------------------|----------------------|----------------------|----------------------|
+| Nithesh Chandher K  | Arturas Aleksandraus | Karl Johan Klang     | Emma Broman          | 
+| Yifan Ding          | Nithesh Chandher  K  | Peilin Yu            | José Bener           |
+| Arturas Aleksandraus| Hugo Ekinge          | Zeyang Huang         | Danhua Lei           |
+| Hugo Ekinge         | Yifan Ding           | Jinyi Wang           | Karl Johan Klang     |
+| Shreyas Shivakumara | Emma Broman          | Nithesh Chandher K   | Peilin Yu            |
+| Emma Broman         | Shreyas Shivakumara  | Yifan Ding           | Zeyang Huang         |
+| José Bener          | Danhua Lei           | Arturas Aleksandraus | Jinyi Wang           | 
+| Danhua Lie          | José Bener           | Hugo Ekinge          | Nithesh Chandher K   |
+| Karl Johan Klang    | Jinyi Wang           | Shreyas Shivakumara  | Yifan Ding           |
+| Peilin Yu           | Karl Johan Klang     | Emma Broman          | Arturas Aleksandraus |
+| Zeyang Huang        | Peilin Yu            | José Bener           | Hugo Ekinge          |      
+| Jinyi Wang          | Zeyang Huang         | Danhua Lei           | Shreyas Shivakumara  |
 
 ---
 
