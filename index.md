@@ -30,7 +30,7 @@ layout: default
 | 14:00 – 15:00 | PhD Presentations – Session 1 (7+3 mins)                           |
 | 15:00 – 15:30 | Fika Break                                                         |
 | 15:30 – 16:00 | PhD Presentations – Session 2 (7+3 mins)                           |
-| 16:00 – 17:00 | Keynote Talk from Åsa Rybo Landelius                              |
+| 16:00 – 17:00 | Keynote Talk from Åsa Rybo Landelius                               |
 | 17:00 – 17:30 | PhD Presentations – Session 3 (7+3 mins)                           |
 | 17:30 – 17:45 | Break                                                              |
 | 17:45 – 18:00 | Thank You Note                                                     |
@@ -42,10 +42,11 @@ layout: default
 | Time          | Event                                                              |
 |---------------|--------------------------------------------------------------------|
 | 13:00 – 13:15 | Welcome Address                                                    |
-| 13:15 – 15:00 | PhD Presentations – Sessions 1–2 (10–12 mins + Q&A)                |
+| 13:15 – 14:00 | PhD Presentations – Sessions 1 (10–12 mins + Q&A)                  |
+| 14:00 - 15:00 | PhD Presentations - Sessions 2 (10-12 mins + Q&A)                  |
 | 15:00 – 15:15 | Fika Break                                                         |
 | 15:15 – 16:00 | PhD Presentations – Session 3                                      |
-| 16:00 – 17:00 | Keynote Talk from Åsa Rybo Landelius                              |
+| 16:00 – 17:00 | Keynote Talk from Åsa Rybo Landelius                               |
 | 17:00 – 18:00 | Presentations – Session 4 + Break + Thank You                      |
 | 18:30 – 20:30 | Dinner & Game Night                                                |
 
