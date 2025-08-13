@@ -12,8 +12,8 @@ layout: default
 
 📅 **Date:** 20 August 2025  
 📍 **Venue:** Wadströmska Villa  
-🧑‍🎓 **Registrations:** 18 PhD Students  
-👥 **Participants:** 15 PhD Students + 2 Invited Speakers  
+👥 **Registrations:** 15 PhD Students  
+ 
 {% endcapture %}
 {{ left | markdownify }}
   </div>
